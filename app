@@ -42,7 +42,7 @@
         "description":
         "Put your Y̅O̅U̅G̅E̅N̅I̅S̅_KEY from @kryli_bot",
         "required":
-        true
+        false
         }
         },
     "buildpacks": 
